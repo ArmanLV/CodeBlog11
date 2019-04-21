@@ -4,11 +4,13 @@ namespace CodeBlog11
 {
     class Swimmer : People
     {
+        // Обьявление конструктора с ссылкой на базовый конструктор
         public Swimmer(string name, int power, int weight) : base(name, power, weight)
         {
 
         }
-
+        
+        // Метод перегрузки операторов (+, -, *, /, %, ==, !=, >, <)
         public static Swimmer operator + (Swimmer SwimmerOne, Swimmer SwimmerTwo)
         {
             var SumPower = SwimmerOne.Power + SwimmerTwo.Power;
