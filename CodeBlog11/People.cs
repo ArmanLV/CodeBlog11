@@ -2,12 +2,14 @@
 
 namespace CodeBlog11
 {
-    public abstract class People
+    public abstract class People // Общий абстрактный класс
     {
+        // Обьявляю общие свойства
         public string Name { get; set; }
         public int Power { get; set; }
         public int Weight { get; set; }
 
+        // Базовый конструктор с проверкой на входные данные
         public People(string name, int power, int weight)
         {
             if (string.IsNullOrWhiteSpace(name))
@@ -22,7 +24,8 @@ namespace CodeBlog11
             Power = power;
             Weight = weight;
         }
-
+        
+        // Метод возвращающий имя 
         public override string ToString()
         {
             return Name;
