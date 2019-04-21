@@ -1,0 +1,11 @@
+I:\Visual Projects\Codeblog11-2\CodeBlog11\bin\Debug\netcoreapp2.1\CodeBlog11.deps.json
+I:\Visual Projects\Codeblog11-2\CodeBlog11\bin\Debug\netcoreapp2.1\CodeBlog11.runtimeconfig.json
+I:\Visual Projects\Codeblog11-2\CodeBlog11\bin\Debug\netcoreapp2.1\CodeBlog11.runtimeconfig.dev.json
+I:\Visual Projects\Codeblog11-2\CodeBlog11\bin\Debug\netcoreapp2.1\CodeBlog11.dll
+I:\Visual Projects\Codeblog11-2\CodeBlog11\bin\Debug\netcoreapp2.1\CodeBlog11.pdb
+I:\Visual Projects\Codeblog11-2\CodeBlog11\obj\Debug\netcoreapp2.1\CodeBlog11.csprojAssemblyReference.cache
+I:\Visual Projects\Codeblog11-2\CodeBlog11\obj\Debug\netcoreapp2.1\CodeBlog11.csproj.CoreCompileInputs.cache
+I:\Visual Projects\Codeblog11-2\CodeBlog11\obj\Debug\netcoreapp2.1\CodeBlog11.AssemblyInfoInputs.cache
+I:\Visual Projects\Codeblog11-2\CodeBlog11\obj\Debug\netcoreapp2.1\CodeBlog11.AssemblyInfo.cs
+I:\Visual Projects\Codeblog11-2\CodeBlog11\obj\Debug\netcoreapp2.1\CodeBlog11.dll
+I:\Visual Projects\Codeblog11-2\CodeBlog11\obj\Debug\netcoreapp2.1\CodeBlog11.pdb
